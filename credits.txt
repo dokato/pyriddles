@@ -1,0 +1,5 @@
+Resources I used to create tasks:
+
+- http://www.labri.fr/perso/nrougier/teaching/numpy.100/
+
+- http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
