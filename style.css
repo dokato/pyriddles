@@ -1,0 +1,23 @@
+
+.r{
+
+    background-color: lightblue;
+}
+
+.riddle{
+    border-style: dotted;
+    position: relative;
+}
+
+.task{
+    position: relative;
+    background-color: rgb(120, 232, 189);
+    font-size = 11px;
+}
+
+.answer{
+    position: relative;
+    background-color: rgb(228, 241, 228);
+    font-size = 11px;
+    font-style: italic;
+}
